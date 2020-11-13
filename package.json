@@ -1,0 +1,16 @@
+{
+  "name": "tdd-formatter",
+  "version": "1.0.0",
+  "description": "Proyecto para el primer ejercicio del curso de código limpio, pruebas unitarias y TDD",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Rodrigo Montemayor",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "http": "0.0.1-security",
+    "mocha": "^8.2.1"
+  }
+}
